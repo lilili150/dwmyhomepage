@@ -1,0 +1,10 @@
+@charset "utf-8";
+tbody tr td {
+}
+tbody tr td {
+	font-size: larger;
+	text-align: center;
+}
+tr td p1 {
+	color: #BB0609;
+}
